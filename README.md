@@ -16,7 +16,9 @@
 <img width="461" height="382" alt="image" src="https://github.com/user-attachments/assets/c35399a3-eb3c-439d-8cff-6adbaaacb333" />
 
 ## Контрольный пример 
+<img width="467" height="389" alt="image" src="https://github.com/user-attachments/assets/ad895376-e733-406d-8255-794aebda8100" />
 
+На данном изображении я наглядно показала, что зеленая точка c координатой (4;1) принадлежит заштрихованной области, а красная точка с координатой (5;6) не находится в заштрихованной области.
 
 ## 1. Алгоритм и блок-схема
 # Алгоритм
