@@ -9,7 +9,7 @@
 *   **Университет:** ВГТУ
 
 ##  Условие задачи (Вариант 29,номер по списку группы)
-https://github.com/filimonovanatalia/dzlab6/blob/master/2026-11-04_21-29-01.png
+<img width="461" height="382" alt="image" src="https://github.com/user-attachments/assets/c35399a3-eb3c-439d-8cff-6adbaaacb333" />
 
 
 ## 1. Алгоритм и блок-схема
