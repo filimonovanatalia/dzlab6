@@ -15,7 +15,17 @@
 
 <img width="461" height="382" alt="image" src="https://github.com/user-attachments/assets/c35399a3-eb3c-439d-8cff-6adbaaacb333" />
 
-## Контрольный пример 
+## Контрольный пример
+Точка `(x, y)` принадлежит заштрихованной области, если одновременно выполняются три условия:
+
+$$
+\begin{cases}
+y \geq 0 \\[6pt]
+x^2 + y^2 \leq 36 \\[6pt]
+\neg\left(x \geq 0 \;\wedge\; x^2 + y^2 \leq 9\right)
+\end{cases}
+$$
+
 <img width="467" height="389" alt="image" src="https://github.com/user-attachments/assets/ad895376-e733-406d-8255-794aebda8100" />
 
 На данном изображении я наглядно показала, что зеленая точка c координатой (4;1) принадлежит заштрихованной области, а красная точка с координатой (5;6) не принадлежит заштрихованной области.
