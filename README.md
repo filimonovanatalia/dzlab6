@@ -69,6 +69,8 @@ $$
 
 ## Блок-схема
 
+<img width="672" height="802" alt="image" src="https://github.com/user-attachments/assets/11d1d22d-3f0b-45bf-8d99-c3106d300d08" />
+
 
 ## 2. Реализация программы
 ```c
