@@ -16,13 +16,13 @@
 <img width="461" height="382" alt="image" src="https://github.com/user-attachments/assets/c35399a3-eb3c-439d-8cff-6adbaaacb333" />
 
 ## Контрольный пример
-Точка `(x, y)` принадлежит заштрихованной области, если одновременно выполняются три условия:
+Точка принадлежит заштрихованной области, если одновременно выполняются три условия:
 
 $$
 \begin{cases}
-y \geq 0 \\[6pt]
-x^2 + y^2 \leq 36 \\[6pt]
-\neg\left(x \geq 0 \;\wedge\; x^2 + y^2 \leq 9\right)
+y \geq 0 \\
+x^2 + y^2 \leq 36 \\
+\neg(x \geq 0 \land x^2 + y^2 \leq 9)
 \end{cases}
 $$
 
