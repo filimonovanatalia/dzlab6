@@ -61,6 +61,8 @@ $$
 
 ## Блок-схема
 
+<img width="402" height="482" alt="image" src="https://github.com/user-attachments/assets/ddf6ef62-18e1-443f-848b-80378ad71b31" />
+
 
 
 ## 2. Реализация программы
